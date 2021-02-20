@@ -1,0 +1,81 @@
+*{
+		margin:0px;
+		padding:0px;
+	}
+	@media only screen and (max-width:900px){
+		#turtle_ani, #rabbit_ani{display:none;}
+	}
+	@media only screen and (max-width:600px){
+		[class*="c"]{width:100%;}
+		
+	}
+	#eng_title{
+		width:250px;
+		position:absolute;
+		left:580px; top:20px;
+	}
+	#title{
+		width:450px;
+		position:relative;
+		top:50px;left:435px;
+	}
+	header{
+		margin:20px;
+		height:200px;
+		padding:10px;
+	}
+	main{
+		margin:10px;
+		padding:10px;
+	}
+	#goto_main{
+		margin-left:300px;
+	}
+	#membership{text-align:center;margin: 10px 10px;}
+	h2{
+		font-family:"Arial";
+		margin-bottom:10px;
+		display:inline;
+	}
+	#membership_box{
+		font-family:"맑은 고딕", "돋움";
+		font-size:13px;
+		color:#555555;
+		width:500px;
+		border:solid 3px #eeeecc;
+		border-radius:50px;
+		margin: 20px 0 0 430px;
+		padding:10px 0 10px 10px;
+	}
+	table td{margin:10px; padding:5px;}
+	table input{width:130px;}
+	table .col1{text-align:left;}
+	h3{
+		margin:20px 0 0 50px;
+	}
+
+	footer{
+		margin:30px 30px 0 30px;
+		clear:both;
+		height:120px;
+		background-color:#aaaaaa;
+	}
+	footer ul{list-style-type:none;}
+	footer #address{float:left;}
+	#footer_menu li{display:inline;}
+	footer #footer_menu, #footer_myinfo{
+		font-size:60%;
+		color:white;
+		margin:10px;
+	}
+	footer #link{
+		float:right;
+		margin:10px;
+		font-size:50%;
+		color:white;}
+	footer #link select{
+		margin:5px 0px 5px 55px;
+	}
+	footer #emoticon{
+		margin:20px 0px 0 80px;
+	}
