@@ -16,11 +16,11 @@ _토끼와 거북이 동화 소개 사이트_
 
 - login page
 <br>
-<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_login.JPG" height=300></img>
+<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_login.JPG" width=400></img>
 <br>
 
 - sign-up page 
 <br>
-<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_membership.JPG" height=300></img>
+<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_membership.JPG" width=400></img>
 <br>
 
