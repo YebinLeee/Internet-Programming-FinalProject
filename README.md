@@ -14,18 +14,13 @@ _토끼와 거북이 동화 소개 사이트_
 <img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/fianl_header.JPG" width=600></img>
 <br>
 
-- login page
+- login & signup page
 <br>
-<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_login.JPG" width=400></img>
+<div><img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_login.JPG" height=300></img>
+<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_membership.JPG" height=300></img></div>
 <br>
-
-- sign-up page 
-<br>
-<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_membership.JPG" width=400></img>
-<br>
-
 
 - main footer
 <br>
-<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/fianl_header.JPG" width=600></img>
+<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/fianl_footer.JPG" width=600></img>
 <br>
