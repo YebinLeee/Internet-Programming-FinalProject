@@ -1,7 +1,7 @@
 ## Internet_Programming_FinalProject
 
 #### [인터넷프로그래밍 2020-2 기말 프로젝트] 어린이를 위한 동화 소개 웹페이지 제작
-<br>
+<br><br>
 
 _토끼와 거북이 동화 소개 사이트_
 
@@ -9,7 +9,7 @@ _토끼와 거북이 동화 소개 사이트_
 
 <br>
 
-- main header (without css-animation)
+- main header (without css5-animation)
 <br>
 <img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/fianl_header.JPG" width=600></img>
 <br>
@@ -22,5 +22,5 @@ _토끼와 거북이 동화 소개 사이트_
 
 - main footer
 <br>
-<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/fianl_footer.JPG" width=600></img>
+<img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/final_footer.JPG" width=600></img>
 <br>
