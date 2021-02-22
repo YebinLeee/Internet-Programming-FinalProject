@@ -11,7 +11,7 @@ _토끼와 거북이 동화 소개 사이트_
 
 <br>
 
-- main header (without css5-animation)
+- main header (without css3-animation)
 <br>
 <img src="https://github.com/YebinLeee/Internet_Programming_FinalProject/blob/main/final%20view/fianl_header.JPG" width=600></img>
 <br>
