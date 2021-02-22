@@ -1,9 +1,7 @@
 ## Internet_Programming_FinalProject
 
-<br><br>
-
 #### [인터넷프로그래밍 2020-2 기말 프로젝트] 어린이를 위한 동화 소개 웹페이지 제작
-<br><br>
+<hr>
 
 _토끼와 거북이 동화 소개 사이트_
 
